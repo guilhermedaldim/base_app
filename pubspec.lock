@@ -102,13 +102,31 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+  micro_app_home:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "v1.0.0"
+      resolved-ref: "8e6c032c7082684487e966d286b8006c49b93a1d"
+      url: "https://github.com/guilhermedaldim/micro_app_home.git"
+    source: git
+    version: "1.0.0"
   micro_app_login:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.1"
-      resolved-ref: cd6b106f678b071ef8bd3d7b06c3151025aab9c2
+      ref: "v1.0.2"
+      resolved-ref: "05848df06a99f3daa8350c6ced4766dbbbcaca1c"
       url: "https://github.com/guilhermedaldim/micro_app_login.git"
+    source: git
+    version: "1.0.2"
+  micro_commons_design_system:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "v1.0.1"
+      resolved-ref: "8039a7b7fbd149da408846dc5a50f66c27f2121c"
+      url: "https://github.com/guilhermedaldim/micro_commons_design_system.git"
     source: git
     version: "1.0.1"
   micro_core:
